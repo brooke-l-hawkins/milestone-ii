@@ -1,0 +1,15 @@
+metric,value
+true_positives,2066.0
+false_positives,355.0
+true_negatives,3457.0
+false_negatives,619.0
+accuracy,0.8500846544559028
+macro_recall,0.8381664976424541
+macro_precision,0.8507509022095265
+macro_f1,0.8428826624048865
+micro_recall,0.8500846544559028
+micro_precision,0.8500846544559028
+micro_f1,0.8500846544559028
+binary_recall,0.7694599627560521
+binary_precision,0.8533663775299463
+binary_f1,0.8092440266353309
