@@ -1,0 +1,5 @@
+metric,value
+homogeneity,0.2884205074216453
+completeness,0.09635711964428542
+adjusted_rand,0.08915931010350873
+calinski_harabasz,101.26909894658795
